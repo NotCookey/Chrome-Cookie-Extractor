@@ -2,4 +2,11 @@
 <p align="center"><b>A Script To Extract And Dump Chrome Cookies into a File</b></p>
 <br>
 
-- **Developed By SecretX**
+**Requirements**
+```
+pip install pycryptodome
+pip install pypiwin32
+```
+<br>
+
+> **Developed By SecretX**
