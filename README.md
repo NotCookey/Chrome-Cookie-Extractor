@@ -2,4 +2,4 @@
 <p align="center"><b>A Script To Extract And Dump Chrome Cookies into a File</b></p>
 <br>
 
-- **Discord ID : 734372837149769771**
+- **Developed By SecretX**
