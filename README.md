@@ -7,6 +7,3 @@
 pip install pycryptodome
 pip install pypiwin32
 ```
-<br>
-
-> **Developed By SecretX**
